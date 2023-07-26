@@ -15,24 +15,28 @@ Speaker: Ömer Faruk Büyükkaya
 Date and time: <2023-07-31 Mon 09:00>
 Video Call Link: https://meet.google.com/sxr-uuon-kiu
 Youtube Channel: oscmw
-Youtube Live Link:
-
+Twitch Live Link:
 ** M.Sc. Defense
 Topic: Surface acoustic wave based piezoelectric biomass sensors
 Speaker: Ufuk Tan Baler
 Date: TBA
-
 ** Industry Talk
 Topic: Industrial ultrasonic converters: operating principles, design considerations, field use, failure modes, computational physics models
 Speaker: Aydin Karaali
-Date: <2023-08-19 Sat 11:00> (Summer Camp Day-2)
-
+Date: <2023-08-19 Sat 11:00> (Summer Camp Day-1)
 * workshop:
-** Day 1:
-<2023-08-18 Fri 21:00>
-
-** Day 2:
-<2023-08-19 Sat 11:00>
-
-** Day 3:
-<2023-08-20 Sun 11:00>
+** Aug.18:
+<2023-08-18 Fri>
+*** Night:
+Picking up the pieces: chemo-mechanical computation of muscular contraction in FEAP (https://projects.ce.berkeley.edu/feap)
+** Aug.19:
+<2023-08-19 Sat>
+*** Morning:
+Industry Talk
+*** Afternoon:
+*** Night:
+** Aug.20:
+<2023-08-20 Sun>
+*** Morning:
+*** Afternoon:
+*** Night:
